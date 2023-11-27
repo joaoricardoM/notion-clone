@@ -42,7 +42,6 @@ npm i
 
 ### Setup .env file
 
-<<<<<<< HEAD
 ```js
 # Deployment used by `npx convex dev`
 CONVEX_DEPLOYMENT=
@@ -62,7 +61,6 @@ npx convex dev
 
 ```
 
-=======
 
 ```js
 # Deployment used by `npx convex dev`
