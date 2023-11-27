@@ -19,7 +19,7 @@ export const Logo = () => {
         className="dark:hidden"
       />
       <Image
-        src="/logo.svg"
+        src="/logo-dark.svg"
         height="40"
         width="40"
         alt="Logo"
