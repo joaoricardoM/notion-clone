@@ -83,7 +83,6 @@ npx convex dev
 
 ```
 
->>>>>>> 74fca9070ac3cc817af7897605bce46c2d7e3193
 ### Start the app
 
 ```shell
